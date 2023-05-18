@@ -1,0 +1,22 @@
+{
+	"dishName": "Name",
+	"selectDishName": "Enter dish name",
+	"preparationTime": "Preparation Time",
+	"dishType": "Type",
+	"selectType": "Select",
+	"slicesNo": "Slices Quantity",
+	"selectSlicesNo": "Enter quantity",
+	"diameter": "Diameter",
+	"selectDiameter": "Enter diameter",
+	"spiciness": "Spiciness (1-10)",
+	"selectSpiciness": "Enter spiciness",
+	"breadSlices": "Bread Slices Quantity",
+	"enterBreadSlices": "Enter Quantity",
+	"submit": "Submit",
+	"emptyInputMessage": "Input must contain non-empty characters",
+	"required": "Field must not be empty",
+	"successDishPost": "Dish request has been sent!",
+	"pizza": "Pizza",
+	"soup": "Soup",
+	"sandwich": "sandwich"
+}

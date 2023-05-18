@@ -1,0 +1,31 @@
+.form {
+	min-width: 30%;
+	.actions-container {
+		width: 100%;
+		display: flex;
+		justify-content: flex-end;
+		margin-top: 2rem;
+	}
+	.mount-animation {
+		opacity: 0;
+		animation: slidein 0.5s 1 ease-in-out forwards;
+	}
+}
+
+@keyframes slidein {
+	from {
+		transform: translateX(-50%);
+		opacity: 0;
+	}
+
+	to {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.form {
+		min-width: 90%;
+	}
+}

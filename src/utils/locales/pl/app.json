@@ -1,0 +1,22 @@
+{
+	"dishName": "Nazwa dania",
+	"selectDishName": "Wpisz nazwę dania",
+	"preparationTime": "Czas przygotowania",
+	"dishType": "Rodzaj",
+	"selectType": "Wybierz",
+	"slicesNo": "Ilość kawałków",
+	"selectSlicesNo": "Wpisz ilość",
+	"diameter": "Średnica",
+	"selectDiameter": "Wpisz średnicę",
+	"spiciness": "Ostrość (1-10)",
+	"selectSpiciness": "Wpisz ostrość",
+	"breadSlices": "Ilość kromek chleba",
+	"enterBreadSlices": "Wpisz ilość",
+	"submit": "Zatwierdź",
+	"emptyInputMessage": "Pole musi zawierać znaki inne niż spacje",
+	"required": "Pole nie może być puste",
+	"successDishPost": "Danie zostało wysłane!",
+	"pizza": "Pizza",
+	"soup": "Zupa",
+	"sandwich": "Kanapka"
+}
